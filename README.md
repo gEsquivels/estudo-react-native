@@ -1,5 +1,5 @@
 # Estudo-react-native
-##Definições das tags do React Native
+## Definições das tags do React Native
 
 ### Componente View:
   É um Componente que se assemelha muito com a tag div do HTML, é usada para criar elementos e estruturar outros elemetos.
